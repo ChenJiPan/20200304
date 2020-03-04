@@ -1,0 +1,25 @@
+1、获取设备配置文件(本地出厂内置一份)
+{"body":{"deviceType":255,"onlyMark":1,form:1,"identification":"112041805000496","requestList":[{"type":2,"version":"1.0.0","md5":"f8aca0b0108826367c40217d20aa6e23"},{"type":1,"version":"1.0.4","md5":"d68ee5fffbd5cce308e9b0755896b71c"},{"type":3,"version":"1.0.0","md5":"ecfd169c18cbaef1fdeaed6b8ea3c096"},{"type":4,"version":"1.0.0","md5":"471db45e558c35d0ae0456e07b693f13"},{"type":5,"version":"1.0.1","md5":"b066cc810b44a495c64979eec338c074"},{"type":6,"version":"1.0.0","md5":"8f3cc0bfb0615913129dfa00e3c021b6"},{"type":7,"version":"1.0.0","md5":"ec7c157abcd774f9d9ddf9dacab820b1"},{"type":8,"version":"1.0.0","md5":"0181d7941d861aa559d409bd30538522"},{"type":10,"version":"1.0.0","md5":"bf07f423510d391d3b26e4f541d62609"}],"currentCode":"cn","language":"zh"},"from":"fivequestions112041805000496","msgName":"iq","query":"com.dosmono.mpush.plugins.translation.ConfigurationFileHandler","ver":"1.0.0"}
+
+type 类型
+
+1 语言配置文件
+
+2 国旗配置文件
+
+3 秘钥配置文件
+
+4 OCR配置文件
+
+5 离线语言配置文件
+
+6 语言对优先级对配置文件
+
+7 biz开机界面图片配置文件
+（ios可不接入）
+8 快捷常用语配置文件
+（ios可不接入）
+9 ocr图像识别配置文件
+
+10 全语言ios配置文件
+
